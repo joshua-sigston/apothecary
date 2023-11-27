@@ -1,10 +1,6 @@
 import React from 'react';
 // styles
 import './about.scss';
-// framer
-import { motion } from 'framer-motion';
-//animations
-import { container, item } from '../../animations';
 // transition
 import transition from '../../transition';
 // components

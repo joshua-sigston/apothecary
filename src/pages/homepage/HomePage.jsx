@@ -1,13 +1,10 @@
-import React, { useState } from 'react';
+import React from 'react';
 // icons
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { FaInstagramSquare } from 'react-icons/fa';
 import { IoLogoYoutube } from 'react-icons/io';
 import { FaFacebookSquare } from 'react-icons/fa';
 // styles
 import './homepage.scss';
-// components
-import Hamburger from '../../components/hamburger/Hamburger';
 // img
 import homeImg1 from '../../imgs/pexels-victoria-emerson-6037890.jpg';
 import homeImg2 from '../../imgs/pexels-monstera-production-6621335.jpg';
