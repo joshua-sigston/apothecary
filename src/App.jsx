@@ -11,12 +11,12 @@ import './App.css';
 // import { HomePage, AboutPage, ContactPage } from './pages/index';
 
 function App() {
-  const location = useLocation();
-  const [nav, setNav] = useState(false);
+  // const location = useLocation();
+  // const [nav, setNav] = useState(false);
 
-  const toggleNav = () => {
-    setNav(!nav);
-  };
+  // const toggleNav = () => {
+  //   setNav(!nav);
+  // };
 
   return (
     <>
