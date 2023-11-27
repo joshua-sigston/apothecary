@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/apothecary/static/css/main.4f536e4c.css",
-    "main.js": "/apothecary/static/js/main.6a68123f.js",
+    "main.css": "/apothecary/static/css/main.02f40819.css",
+    "main.js": "/apothecary/static/js/main.45a4812d.js",
+    "static/media/sliderTwo.jpg": "/apothecary/static/media/sliderTwo.76d65c31077d2cd32627.jpg",
+    "static/media/sliderOne.jpg": "/apothecary/static/media/sliderOne.139525e2c00db98ba552.jpg",
+    "static/media/pexels-victoria-emerson-6037890.jpg": "/apothecary/static/media/pexels-victoria-emerson-6037890.fb2bce6545b3ac84a297.jpg",
+    "static/media/pexels-monstera-production-6621335.jpg": "/apothecary/static/media/pexels-monstera-production-6621335.5e60b844841e4b142eda.jpg",
+    "static/media/sliderFive.jpg": "/apothecary/static/media/sliderFive.e9d659713b4b9408f835.jpg",
+    "static/media/sliderThree.jpg": "/apothecary/static/media/sliderThree.7f0e308d123f631e218e.jpg",
+    "static/media/sliderFour.jpg": "/apothecary/static/media/sliderFour.396a6d50825368914c40.jpg",
     "index.html": "/apothecary/index.html",
-    "main.4f536e4c.css.map": "/apothecary/static/css/main.4f536e4c.css.map",
-    "main.6a68123f.js.map": "/apothecary/static/js/main.6a68123f.js.map"
+    "main.02f40819.css.map": "/apothecary/static/css/main.02f40819.css.map",
+    "main.45a4812d.js.map": "/apothecary/static/js/main.45a4812d.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f536e4c.css",
-    "static/js/main.6a68123f.js"
+    "static/css/main.02f40819.css",
+    "static/js/main.45a4812d.js"
   ]
 }
