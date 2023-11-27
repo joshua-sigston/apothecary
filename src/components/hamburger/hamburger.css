@@ -1,0 +1,38 @@
+.hamburger {
+  position: fixed;
+  z-index: 10;
+  top: 1em;
+  right: 1em;
+  height: 2.5rem;
+  width: 2.5rem;
+  align-items: center;
+  justify-content: center;
+  align-self: flex-end;
+  transition: var(--transition-two);
+  gap: .5em;
+  cursor: pointer;
+}
+
+.hamburger:hover .dot,
+.hamburger:hover .column{
+  transform: scale(1.2);
+  background-color: hsl(var(--black-onyx));
+}
+
+.dot {
+  width: .5rem;
+  height: .5rem;
+  border-radius: 50%;
+}
+
+.column {
+  height: 80%;
+  width: .3rem;
+  border-radius: .3rem;
+}
+
+.dot,
+.column {
+  transition: var(--transition-two);
+  background-color: hsl(var(--white-isabelline));
+}
