@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/apothecary/static/css/main.02f40819.css",
-    "main.js": "/apothecary/static/js/main.53de7332.js",
+    "main.js": "/apothecary/static/js/main.4eef1bef.js",
     "static/media/sliderTwo.jpg": "/apothecary/static/media/sliderTwo.76d65c31077d2cd32627.jpg",
     "static/media/sliderOne.jpg": "/apothecary/static/media/sliderOne.139525e2c00db98ba552.jpg",
     "static/media/pexels-victoria-emerson-6037890.jpg": "/apothecary/static/media/pexels-victoria-emerson-6037890.fb2bce6545b3ac84a297.jpg",
@@ -11,10 +11,10 @@
     "static/media/sliderFour.jpg": "/apothecary/static/media/sliderFour.396a6d50825368914c40.jpg",
     "index.html": "/apothecary/index.html",
     "main.02f40819.css.map": "/apothecary/static/css/main.02f40819.css.map",
-    "main.53de7332.js.map": "/apothecary/static/js/main.53de7332.js.map"
+    "main.4eef1bef.js.map": "/apothecary/static/js/main.4eef1bef.js.map"
   },
   "entrypoints": [
     "static/css/main.02f40819.css",
-    "static/js/main.53de7332.js"
+    "static/js/main.4eef1bef.js"
   ]
 }
