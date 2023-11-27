@@ -24,7 +24,7 @@ function App() {
       <Hamburger nav={nav} toggleNav={toggleNav} />
       <AnimatePresence mode="wait">
         <Routes location={location} key={location.pathname}>
-          <Route path="/" element={<HomePage nav={nav} />} />
+          <Route path="/apothecary" element={<HomePage nav={nav} />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/contact" element={<ContactPage />} />
         </Routes>

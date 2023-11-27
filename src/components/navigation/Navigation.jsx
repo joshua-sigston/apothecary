@@ -30,7 +30,7 @@ const Navigation = ({ nav, toggleNav }) => {
           >
             <div className="link_container">
               <motion.div variants={item}>
-                <NavLink to="/" onClick={toggleHeader}>
+                <NavLink to="/apothecary" onClick={toggleHeader}>
                   Home
                 </NavLink>
               </motion.div>
